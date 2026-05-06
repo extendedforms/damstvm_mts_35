@@ -2,11 +2,6 @@
 // Format: { id, image?, question, options[], answerIndex, correctAnswerText }
 
 window.questions = [
-  // ===== Set 1 =====
-
- 
-
-const questions = [
   {
     id: 1,
     image: "images/IMG_3894.jpeg",
