@@ -510,7 +510,7 @@ window.questions = [
   },
   {
     id: 40,
-    image: "images/IMG_ 8508.jpeg",
+    image: "images/IMG_ 8597.jpeg",
     question: "A 19-year-old college student presents with multiple discrete-to-confluent hypopigmented perifollicular macules over the upper back and chest. The lesions become more obvious after sun exposure. KOH mount shows short curved hyphae mixed with round spores, giving a “spaghetti and meatball” appearance. Wood’s lamp examination shows yellow fluorescence.\nWhich factor best explains the hypopigmentation in this condition?",
     options: [
       "Porphyrin production by Corynebacterium minutissimum",
